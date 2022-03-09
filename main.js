@@ -13,7 +13,7 @@ let itemThree = document.querySelector("#item-3");
 itemThree.innerText = 'I say, "Hi!"';
 
 let image = document.querySelector("img");
-image.src = ("http://www.tioxic.com/wp-content/uploads/trex_4.jpg");
+image.src = ("https://img.thedailybeast.com/image/upload/v1510232725/171108-Ronson-trex-tease_x02c1a.jpg");
 image.style.height = "300px";
 
 let imageTwo = document.querySelector("#baby");
